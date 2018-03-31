@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import productService from './products-service';
-console.log('productService: ', productService);
 
 class Products extends Component {
     render() {
