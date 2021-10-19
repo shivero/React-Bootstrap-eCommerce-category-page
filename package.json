@@ -17,7 +17,7 @@
     "eslint": "^4.19.1",
     "jquery": "^3.5.0",
     "jshint": "^2.9.5",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "popper.js": "^1.14.3",
     "style-loader": "^0.20.3",
     "webpack-cli": "^2.1.5",
